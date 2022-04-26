@@ -1,0 +1,16 @@
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\bin\Debug\net5.0\CSharp.LabExercise3.exe
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\bin\Debug\net5.0\CSharp.LabExercise3.deps.json
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\bin\Debug\net5.0\CSharp.LabExercise3.runtimeconfig.json
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\bin\Debug\net5.0\CSharp.LabExercise3.runtimeconfig.dev.json
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\bin\Debug\net5.0\CSharp.LabExercise3.dll
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\bin\Debug\net5.0\CSharp.LabExercise3.pdb
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\CSharp.LabExercise3.csproj.AssemblyReference.cache
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\CSharp.LabExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\CSharp.LabExercise3.AssemblyInfoInputs.cache
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\CSharp.LabExercise3.AssemblyInfo.cs
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\CSharp.LabExercise3.csproj.CoreCompileInputs.cache
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\CSharp.LabExercise3.dll
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\refint\CSharp.LabExercise3.dll
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\CSharp.LabExercise3.pdb
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\CSharp.LabExercise3.genruntimeconfig.cache
+C:\Users\dayle.villanda\Documents\Bootcamp\Back End\C#\CSharp.LabExercise3\CSharp.LabExercise3\obj\Debug\net5.0\ref\CSharp.LabExercise3.dll
